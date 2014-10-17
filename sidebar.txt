@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tsz:home|Door43 (tsz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tsz|d43-tsz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tsz/archive/master.zip|d43-tsz.zip]]
+
+**Recent Changes**
+{{changes>ns = tsz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tsz|Ethnologue data]]
+
